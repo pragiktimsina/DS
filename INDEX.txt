@@ -1,0 +1,35 @@
+
+
+INDEX
+
+1) Sorting:
+		(i)— Insertion Sort
+ 		(ii)— Bucket    Sort
+
+2)— Search in Sparse Matrix
+
+3)— Stacks using Arrays
+
+4)— Conversion of PostFix Expression to Infix.
+
+5)— Evaluation of Postfix Expression
+
+6)— Linear Queue
+
+7)— Circular Queue
+
+8) — Stacks using Singly LINKED LIST
+
+9) — Queues using Singly LINKED LIST
+
+10)— Polynomial addition using linked list
+
+11)— DOUBLY LINKED LIST
+
+12) — Trees
+
+13) — Max Heap Creation 
+
+14) Recursion:
+			(i)— Binary Search
+			(ii)— Tower of Hanoi 
